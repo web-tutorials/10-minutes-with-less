@@ -1,0 +1,23 @@
+{
+  "name": "10-minutes-with-less",
+  "version": "1.0.0",
+  "description": "Learn LESS in 10 Minutes (or Less)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-tutorials/10-minutes-with-less.git"
+  },
+  "keywords": [
+    "less",
+    "css"
+  ],
+  "author": "ducito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-tutorials/10-minutes-with-less/issues"
+  },
+  "homepage": "https://github.com/web-tutorials/10-minutes-with-less#readme"
+}
