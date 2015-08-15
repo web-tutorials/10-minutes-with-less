@@ -162,8 +162,11 @@ div:hover {
    
    You now know enough of Less to get started! Every CSS file is a valid Less stylesheet, so you can start cleaning up that old and unwieldy .css right away. As you learn more, you will be able to make the code even better. Here is what we recommend that you read next:
    
-   *All the language features – [link](http://lesscss.org/features/#features-overview-feature)
-   *LESS function reference – [link](http://lesscss.org/functions/)
-   *Editor and compiler in the browser – [link](http://less2css.org/)
+
+*All the language features – [link](http://lesscss.org/features/#features-overview-feature)
+
+*LESS function reference – [link](http://lesscss.org/functions/)
+
+*Editor and compiler in the browser – [link](http://less2css.org/)
 
 
